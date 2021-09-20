@@ -1,4 +1,4 @@
-# TP1-AEDS3-Grafos
+# TP1-AEDS3-Network flow
 
 It's a simple application for traversing a graph using the concept for Ford-Fulkerson's algorithm, which uses BFS (Breadth-first search) 
 idea to compute the max flow in a weighted directed graph making usage of an auxiliary queue.
